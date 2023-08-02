@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irineucassiano
 - 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning JavaScript (looking foward for react or angular, im not sure yet:>)
+- 🌱 I’m currently learning JavaScript (looking foward for react or angular, i'm not sure yet:>)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
